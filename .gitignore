@@ -5,6 +5,6 @@ npm-debug.log
 /lib/bs/
 /node_modules/**/*
 **/*.iml
-jest.mli
+**/*.bs.js
 node_modules/
 .vscode
