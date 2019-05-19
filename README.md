@@ -1,7 +1,7 @@
 # Re-Chalk
 Bindings of [chalk](https://github.com/chalk/chalk) for [reasonml](https://reasonml.github.io/)
 # What's missing?
-As you might imagine, there are some things missin. Very few, but still. Here's the list:
+As you can imagine, there are some things missing. Very few, but still. Here's the list:
 * RGB
 * HSL
 * HWB
