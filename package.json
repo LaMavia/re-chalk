@@ -12,6 +12,10 @@
     "Reasonml",
     "chalk"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LastShadowPL/re-chalk"
+  },
   "author": "Tomasz Surowiec",
   "license": "MIT",
   "devDependencies": {
